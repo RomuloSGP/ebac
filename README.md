@@ -22,7 +22,7 @@ O objetivo deste projeto é analisar e visualizar a variação diária do preço
 
 1. Clone este repositório ou baixe os arquivos para o seu computador:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/RomuloSGP/ebac.git
     ```
 
 2. Instale as dependências necessárias (se ainda não tiver as bibliotecas instaladas):
